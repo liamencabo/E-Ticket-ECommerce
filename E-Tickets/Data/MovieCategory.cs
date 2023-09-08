@@ -10,6 +10,8 @@ namespace E_Tickets.Data
         Action = 1,
         Comedy,
         Drama,
-        Documentary
+        Documentary,
+        Mystery,
+        Sci-Fi,
     }
 }
