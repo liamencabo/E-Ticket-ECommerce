@@ -11,7 +11,7 @@ namespace E_Tickets.Data
         Comedy,
         Drama,
         Documentary,
-        Mystery,
-        Sci-Fi,
+        Adventure,
+        SciFi,
     }
 }
